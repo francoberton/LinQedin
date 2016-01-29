@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATABASE>
+    <Utente>
+        <Username>fraber</Username>
+        <Password>oliveroliver</Password>
+        <Nome>FRANCO</Nome>
+        <Cognome>BERTON</Cognome>
+        <Data_di_Nascita>11-01-1993</Data_di_Nascita>
+        <Luogo_di_Nascita>MIRANO</Luogo_di_Nascita>
+        <Lingue_conosciute>ITALIANO, DIALETTO, INGLESE</Lingue_conosciute>
+        <Formazione_Scolastica></Formazione_Scolastica>
+        <Esperienze_Professionali></Esperienze_Professionali>
+        <Tipo_di_Utente>Utente Executive</Tipo_di_Utente>
+        <Rete_Contatti>
+            <Contact>albo</Contact>
+        </Rete_Contatti>
+    </Utente>
+    <Utente>
+        <Username>albo</Username>
+        <Password>ferra</Password>
+        <Nome>ALBERTO</Nome>
+        <Cognome>FERRARA</Cognome>
+        <Data_di_Nascita>01-01-1993</Data_di_Nascita>
+        <Luogo_di_Nascita>PADOVA</Luogo_di_Nascita>
+        <Lingue_conosciute>dialetto</Lingue_conosciute>
+        <Formazione_Scolastica></Formazione_Scolastica>
+        <Esperienze_Professionali></Esperienze_Professionali>
+        <Tipo_di_Utente>Utente Basic</Tipo_di_Utente>
+        <Rete_Contatti/>
+    </Utente>
+</DATABASE>

@@ -1,0 +1,14 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{\numberline {1}Panoramica}{3}
+\contentsline {section}{\numberline {1.1}Compilazione}{3}
+\contentsline {section}{\numberline {1.2}Introduzione al progetto}{3}
+\contentsline {section}{\numberline {1.3}Informazioni generali sul progetto}{3}
+\contentsline {chapter}{\numberline {2}Struttura}{5}
+\contentsline {section}{\numberline {2.1}Elenco delle classi modellate}{5}
+\contentsline {subsection}{\numberline {2.1.1}Classe utente e sue derivate}{5}
+\contentsline {subsection}{\numberline {2.1.2}Gestione database}{6}
+\contentsline {subsection}{\numberline {2.1.3}Gestione Rete utenti}{6}
+\contentsline {section}{\numberline {2.2}Gestione del salvataggio dati in XML}{7}
+\contentsline {chapter}{\numberline {3}Divisione grafica/logica}{8}
+\contentsline {chapter}{\numberline {4}Considerazioni Finali}{10}
